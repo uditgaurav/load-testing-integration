@@ -1,6 +1,6 @@
 # Jenkins Job Trigger Pipeline
 
-<img width="1085" alt="Image" src="https://github.com/user-attachments/assets/7f02b1fd-df3d-4c1a-a483-729acb2ad686" />
+<img width="1144" alt="Image" src="https://github.com/user-attachments/assets/7a45a1bd-b0b7-4c4f-81ff-db21800be530" />
 
 This Harness pipeline is designed to **trigger a Jenkins job**, **monitor its progress**, and **fetch logs**, offering a seamless integration between Harness and Jenkins CI/CD workflows.
 It is a reusable Harness CI/CD template. It automates the process of triggering Jenkins jobs & monitors it in real-time, and fetches detailed console logs—all within a single step. 
