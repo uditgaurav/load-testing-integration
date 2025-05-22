@@ -19,7 +19,6 @@ This Harness step template is designed to **trigger a Gatling Enterprise Cloud s
 |-----------------|----------|-----------------------------------------------------------------------------|
 | `simulation_id` | Yes   | The unique ID of the simulation in Gatling Enterprise Cloud                 |
 | `token`         | Yes   | Token used for authenticating with the Gatling API                   |
-| `delegateSelectors` | Yes | Harness delegate(s) to execute this step on                                 |
 
 ---
 
